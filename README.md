@@ -1,9 +1,5 @@
 # Sudoku Solver 🧩
 
-## Before                                                                                                 
-
-![Image](https://github.com/user-attachments/assets/f328ccfe-549f-41b7-9636-4651adb814f5) 
-
 A simple and efficient Sudoku Solver built using Python and Tkinter. This project provides a graphical user interface (GUI) that allows users to input a Sudoku puzzle and solve it using a backtracking algorithm.
 
 ## Features
@@ -39,6 +35,10 @@ To run the Sudoku Solver on your local machine, follow the steps below:
 
 ## Backtracking Algorithm
 - The Sudoku puzzle is solved using a backtracking algorithm, which attempts to fill the empty cells with numbers from 1 to 9. It checks whether a number can be placed in a particular cell based on the Sudoku rules (no duplicates in rows, columns, or 3x3 subgrids). If the solution fails, the algorithm backtracks and tries another number.
+
+### Before
+
+![Image](https://github.com/user-attachments/assets/f328ccfe-549f-41b7-9636-4651adb814f5)
 
 ## Built with 🐍 and ❤️ using Python and Tkinter
 
