@@ -42,6 +42,7 @@ To run the Sudoku Solver on your local machine, follow the steps below:
 
 ### After
 
+![Image](https://github.com/user-attachments/assets/57f1eec9-8b04-4ac6-8b31-b6b9290c7732)
 ![Image](https://github.com/user-attachments/assets/8eba8bb2-a317-468f-994e-0ec1bafebf2a)
 
 
