@@ -36,9 +36,9 @@ To run the Sudoku Solver on your local machine, follow the steps below:
 ## Backtracking Algorithm
 - The Sudoku puzzle is solved using a backtracking algorithm, which attempts to fill the empty cells with numbers from 1 to 9. It checks whether a number can be placed in a particular cell based on the Sudoku rules (no duplicates in rows, columns, or 3x3 subgrids). If the solution fails, the algorithm backtracks and tries another number.
 
-### Before
+### Before                                                                                         ### After
 
-![Image](https://github.com/user-attachments/assets/f328ccfe-549f-41b7-9636-4651adb814f5)
+![Image](https://github.com/user-attachments/assets/f328ccfe-549f-41b7-9636-4651adb814f5)          ![Image](https://github.com/user-attachments/assets/8eba8bb2-a317-468f-994e-0ec1bafebf2a)  ![Image](https://github.com/user-attachments/assets/57f1eec9-8b04-4ac6-8b31-b6b9290c7732)
 
 ## Built with 🐍 and ❤️ using Python and Tkinter
 
