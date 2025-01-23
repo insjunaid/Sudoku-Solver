@@ -1,6 +1,8 @@
 # Sudoku Solver 🧩
 
+## Before                                                                                                 
 
+![Image](https://github.com/user-attachments/assets/f328ccfe-549f-41b7-9636-4651adb814f5) 
 
 A simple and efficient Sudoku Solver built using Python and Tkinter. This project provides a graphical user interface (GUI) that allows users to input a Sudoku puzzle and solve it using a backtracking algorithm.
 
