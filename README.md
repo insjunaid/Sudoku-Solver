@@ -42,6 +42,8 @@ To run the Sudoku Solver on your local machine, follow the steps below:
 
 ### After
 
+![Image](https://github.com/user-attachments/assets/8eba8bb2-a317-468f-994e-0ec1bafebf2a)
+
 
 ## Built with 🐍 and ❤️ using Python and Tkinter
 
